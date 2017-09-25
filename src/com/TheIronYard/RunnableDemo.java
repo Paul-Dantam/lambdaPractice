@@ -13,6 +13,5 @@ public class RunnableDemo {
 
         Runnable lambdaRun = () -> System.out.println("Lambda run");
         lambdaRun.run();
-
     }
 }
