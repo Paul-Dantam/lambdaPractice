@@ -1,8 +1,5 @@
 package com.TheIronYard;
 
-/**
- * Created by gilpratte on 7/26/17.
- */
 public class Address {
 
     private String street;
